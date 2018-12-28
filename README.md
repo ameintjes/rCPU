@@ -14,7 +14,7 @@ The program will automatically adjust the display according to the number of CPU
 ##### On the Raspberry Pi (and other Debian based systems probaby)
 You should be able to do this:
 ```
-git clone https://github.com/davidsblog/rCPU
+git clone https://github.com/ameintjes/rCPU
 cd rCPU/rCPU/
 sudo make install
 ```
